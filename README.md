@@ -23,14 +23,14 @@
 在 GKD 中添加订阅：
 
 ```
-https://raw.githubusercontent.com/<你的用户名>/gkd-merged-subscription/main/dist/merged_gkd.json5
+https://raw.githubusercontent.com/jack98hao/gkd-merged-subscription/main/dist/merged_gkd.json5
 ```
 
 国内加速镜像（任选其一）：
 
 ```
-https://cdn.jsdmirror.cn/gh/<你的用户名>/gkd-merged-subscription@main/dist/merged_gkd.json5
-https://raw.gitmirror.com/<你的用户名>/gkd-merged-subscription/main/dist/merged_gkd.json5
+https://cdn.jsdmirror.cn/gh/jack98hao/gkd-merged-subscription@main/dist/merged_gkd.json5
+https://raw.gitmirror.com/jack98hao/gkd-merged-subscription/main/dist/merged_gkd.json5
 ```
 
 ## 声明
