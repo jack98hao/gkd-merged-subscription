@@ -29,13 +29,17 @@
 
 在 GKD → 订阅 → 添加 中填入（任选其一）：
 
-国内镜像（推荐）：
+国内镜像（推荐，任选其一）：
+
+```
+https://gh-proxy.com/https://raw.githubusercontent.com/jack98hao/gkd-merged-subscription/main/dist/merged_gkd.json5
+```
 
 ```
 https://cdn.jsdmirror.cn/gh/jack98hao/gkd-merged-subscription@main/dist/merged_gkd.json5
 ```
 
-GitHub 直连：
+GitHub 直连（国内网络可能不稳定）：
 
 ```
 https://raw.githubusercontent.com/jack98hao/gkd-merged-subscription/main/dist/merged_gkd.json5
